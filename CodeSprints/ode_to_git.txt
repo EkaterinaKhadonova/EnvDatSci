@@ -4,7 +4,12 @@ so later I may be less confused.
 But what is the value of such a quest
 if here and now I stand abused?
 
+<<<<<<< HEAD
 Oh how I wish that my commit
 Was not as large!
 My team is split: 
 Do we delete the repo or to debug we barge?
+=======
+hello git!
+it is a joy to use you now
+>>>>>>> upstream/main

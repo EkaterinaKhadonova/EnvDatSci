@@ -8,7 +8,7 @@ if here and now I stand abused?
 Oh how I wish that my commit
 Was not as large!
 My team is split: 
-Do we delete the repo or to debug we barge?
+Do we delete the repo or to debug we barge? Potatoes
 =======
 hello git!
 it is a joy to use you now
